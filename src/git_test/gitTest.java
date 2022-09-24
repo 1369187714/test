@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("aaaa");
         System.out.println("test");
         System.out.println("test");
+        System.out.println("fix");
     }
 }
